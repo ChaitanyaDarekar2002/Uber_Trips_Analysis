@@ -3,6 +3,8 @@
 ## Project Overview
 This project performs data analysis on Uber trip data using SQL Server and Power BI. The objective is to clean the data, perform exploratory data analysis (EDA), create SQL views/tables, and build an interactive live dashboard in Power BI.
 
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/341c6138-e599-4e98-b911-f52250da9d06" />
+
 ---
 
 ## Project Objectives
@@ -140,6 +142,6 @@ UberDB
 
 ## Author
 
-Your Name
+Chaitanya Darekar
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ChaitanyaDarekar2002
